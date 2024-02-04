@@ -1,0 +1,20 @@
+*{
+    background-color: blanchedalmond;
+}
+h1{
+   padding: 30px; 
+    color: #4e0404;;
+    margin-bottom: 50px;
+    margin: auto;
+}
+h2{
+    
+    color: rgb(26, 35, 11);
+}
+table{
+    width:100%;
+    hyphens: 100%;
+}
+img{
+    border-radius: 50%;
+}
